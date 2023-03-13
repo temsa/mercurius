@@ -55,7 +55,7 @@
   "dependencies": {
     "@fastify/error": "^3.0.0",
     "@fastify/static": "^5.0.0",
-    "@fastify/websocket": "^5.0.0",
+    "@fastify/websocket": "^7.1.3",
     "@types/isomorphic-form-data": "^2.0.0",
     "events.on": "^1.0.1",
     "fastify-plugin": "^3.0.1",
